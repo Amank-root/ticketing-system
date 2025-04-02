@@ -31,8 +31,8 @@ A Next.js application that distributes coupons to guest users in a round-robin m
 
 1. Clone the repository
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Amank-root/ticketing-system.git
+   cd ticketing-system
    ```
 
 2. Install dependencies
